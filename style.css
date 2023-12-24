@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.fullpage {
+  width: 375px;
+  height: 1294px; 
+  background-color: #F7FDFC;
+  border: 1px solid black;
+  padding: 20px 12px;
+}
+
+.status-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.time img {
+  width: auto;
+  height: auto;  
+}
